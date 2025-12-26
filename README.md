@@ -28,12 +28,6 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 
 ---
 
-### 🤝 Let’s Connect
-- 💼 LinkedIn: [link]
-- 🐦 Twitter/X: [link]
-- 🌐 Portfolio: [link]
-
----
 
 ⭐️ *If you like my work, consider starring some repositories!*
 
