@@ -4,8 +4,8 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 
 
 ### 🛠️ Tech Stack
-- **Languages:** [C, C++, Python, JavaScript, etc.]
-- **Frameworks & Tools:** [React, Node, Git, Linux, etc.]
+- **Languages:** [C, C#, Python, etc.]
+- **Frameworks & Tools:** [.NET 8.0, Git, Linux, etc.]
 - **Currently Exploring:** [anything new]
 
 ---
