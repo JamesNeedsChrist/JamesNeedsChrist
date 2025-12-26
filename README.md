@@ -10,12 +10,8 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesNeedsChrist&show_icons=true&theme=tokyonight)
 
----
-
-### 🔥 GitHub Streaks
+### 🕵️ GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=JamesNeedsChrist&theme=tokyonight)
 
 ---
