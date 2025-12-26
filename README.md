@@ -23,13 +23,6 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 
 ---
 
-### 🌍 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesNeedsChrist&theme=tokyo-night)
-
----
-
-
-⭐️ *If you like my work, consider starring some repositories!*
 
 
 <!--
