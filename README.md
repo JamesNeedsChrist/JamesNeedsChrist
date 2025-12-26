@@ -2,17 +2,6 @@
 
 I am James Joseph, and I am a Computer Engineering student and an aspiring Cybersecuity Analyst
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[your current project / focus]**
-- 🌱 I’m currently learning **[languages, frameworks, concepts]**
-- 👯 I’m looking to collaborate on **open-source projects & interesting ideas**
-- 🤔 I’m looking for help with **[specific topic if any]**
-- 💬 Ask me about **[tech you’re comfortable with]**
-- 📫 How to reach me: **[email / LinkedIn / Twitter]**
-- 😄 Pronouns: **[he/him, she/her, they/them, etc.]**
-- ⚡ Fun fact: **[something fun or unique about you]**
-
----
 
 ### 🛠️ Tech Stack
 - **Languages:** [C, C++, Python, JavaScript, etc.]
@@ -22,12 +11,12 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesNeedsChrist&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JamesNeedsChrist&theme=tokyonight)
 
 > 🏆 **Longest Streak:** XX days  
 > 🔥 **Current Streak:** XX days  
@@ -35,7 +24,7 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 ---
 
 ### 🌍 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesNeedsChrist&theme=tokyo-night)
 
 ---
 
