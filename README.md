@@ -2,6 +2,13 @@
 
 I am James Joseph, and I am a Computer Engineering student and an aspiring Cybersecuity Analyst
 
+<div align="center">
+
+### 🕵️ GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=JamesNeedsChrist&theme=tokyonight)
+<br>
+
+</div>
 
 ### 🛠️ Tech Stack
 - **Languages:** [C, C#, Python, etc.]
@@ -11,8 +18,6 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 ---
 
 
-### 🕵️ GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=JamesNeedsChrist&theme=tokyonight)
 
 ---
 
