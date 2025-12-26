@@ -15,9 +15,20 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
   
   <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin-right:10px;"/>
+
+ <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin-right:10px;"/>
   
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" style="margin-right:10px;"/>
+  
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" style="margin-right:10px;"/>
+
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" style="margin-right:10px;"/>
+  
+
   
 </p>
 
