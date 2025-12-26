@@ -1,25 +1,33 @@
-## Hi there 👋
+## Shalom! 👋
 
 I am James Joseph, and I am a Computer Engineering student and an aspiring Cybersecuity Analyst
 
+---
 <div align="center">
+  
+### 🛠️ Tech Stack
+<p align="center">
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" style="margin-right:10px;"/>
+  
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" style="margin-right:10px;"/>
+  
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin-right:10px;"/>
+  
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" style="margin-right:10px;"/>
+  
+</p>
+
+---
 
 ### 🕵️ GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=JamesNeedsChrist&theme=tokyonight)
 <br>
 
 </div>
-
-### 🛠️ Tech Stack
-- **Languages:** [C, C#, Python, etc.]
-- **Frameworks & Tools:** [.NET 8.0, Git, Linux, etc.]
-- **Currently Exploring:** [anything new]
-
----
-
-
-
----
 
 
 
