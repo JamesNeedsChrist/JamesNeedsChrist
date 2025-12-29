@@ -2,6 +2,9 @@
 
 I am James Joseph, and I am a Computer Engineering student and an aspiring Cybersecuity Analyst
 
+
+New to being hardworking, but to start is better than to stay
+
 ---
 <div align="center">
   
