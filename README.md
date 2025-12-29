@@ -33,7 +33,10 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 </p>
 
 ---
-
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-two-sand.vercel.app?user=JamesNeedsChrist&theme=radical&border_radius=4.5" alt="GitHub Streak" />
+</p>
 <!--### 🕵️ GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=JamesNeedsChrist&theme=tokyonight)
 <br>
@@ -42,17 +45,4 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 --!>
 
 
-<!--
-**JamesNeedsChrist/JamesNeedsChrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- IF YOU ARE READING THIS, JESUS CHRIST CAN SAVE YOU. --!>
