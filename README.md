@@ -19,6 +19,9 @@ New to being hardworking, but to start is better than to stay
   <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin-right:10px;"/>
 
+  <!-- Windows -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" style="margin-right:10px;"/>
+
  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin-right:10px;"/>
   
