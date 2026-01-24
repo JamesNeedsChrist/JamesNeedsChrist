@@ -5,7 +5,7 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 New to being hardworking, but to start is better than to stay!
 
 Outside of coding:
-1. Take some walks / Do some exercise
+1. Take some walks / Do some exercise (but I am not that enthusiast, because I have an injury from the past)
 2. Watch movies / animes 
 3. Talk technical stuff or related to God! (as long that I am not exhausted already)
 ---
