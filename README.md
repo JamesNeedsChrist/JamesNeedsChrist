@@ -9,7 +9,7 @@ Outside of coding:
 1. Take some walks
 2. Watch movies / animes 
 3. Talk technical stuff or related to God! (as long that I am not exhausted already)
----
+
 <div align="center">
 <!--  
 ### 🛠️ Tech Stack
@@ -57,7 +57,7 @@ Tools:
 </p>
 -->
 
----
+
 
 <!-- GitHub Streak
 <p align="center">
