@@ -11,7 +11,7 @@ Outside of coding:
 3. Talk technical stuff or related to God! (as long that I am not exhausted already)
 
 <div align="center">
-<!--  
+<!--  lingaw lingaw rani akong github ayaw tan awa :(
 ### 🛠️ Tech Stack
 </div>
 
