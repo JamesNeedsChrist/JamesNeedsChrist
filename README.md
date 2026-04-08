@@ -13,7 +13,8 @@ Outside of coding and studying:
 Weakness or strength:
 1. Only put all my efforts on one subject.
 2. Code for hours straight in a week with minimal cybersecurity and math
-3. Study cybersecurity and IT with minimal code and math
+3. Hands-on cybersecurity and IT with minimal code and math
+4. Study math for a day with minimal cybersecurity and coding
 
 <div align="center">
 <!--  lingaw lingaw rani akong github ayaw tan awa :(
