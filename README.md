@@ -21,6 +21,7 @@ Favorite Theme on App or Anime:
 * `Pros - Can focus for weeks with genuine interest`  
 * `Cons - Start to dislike and give no focus on other subjects`
 
+![Showing Love](https://media.tenor.com/9q2hehDWaQYAAAAi/sending-love-cute.gif)
 
 <!-- IF YOU ARE READING THIS, JESUS CHRIST CAN SAVE YOU. --!>
 
