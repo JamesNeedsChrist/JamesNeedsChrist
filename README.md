@@ -10,7 +10,10 @@ Outside of coding and studying:
 2. Watch movies / animes 
 3. Talk technical stuff or related to God! (as long that I am not exhausted already)
 
-My weakness is I can only put all my efforts on one subject. Therefore, I would either code for a week straight with minimal cybersecurity and math or study cybersecurity with minimal code and math
+Weakness or strength:
+1. Only put all my efforts on one subject.
+2. Code for hours straight in a week with minimal cybersecurity and math
+3. Study cybersecurity and IT with minimal code and math
 
 <div align="center">
 <!--  lingaw lingaw rani akong github ayaw tan awa :(
