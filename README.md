@@ -13,7 +13,7 @@ Outside of coding and studying:
 Favorite Theme on App or Anime:
 1. Light
 2. Sports
-
+3. Romance (Occassionally)
 ``` 
 ### Weakness or strength:
 1. Only put all my efforts on one subject to learn with no boredom.
