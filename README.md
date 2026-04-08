@@ -4,7 +4,6 @@ I am James Joseph, and I am a Computer Engineering student and an aspiring Cyber
 
 New to being hardworking, but to start is better than to stay!
 
-
 ```shell-session
 Outside of coding and studying:
 1. Take some walks
@@ -14,6 +13,8 @@ Outside of coding and studying:
 Favorite Theme on App or Anime:
 1. Light
 2. Sports
+
+Why I like Light? Because I have tasted darkness and pleasures, but it only lead me to conclude that it is meaningless
 ``` 
 ### Weakness or strength:
 1. Only put all my efforts on one subject to learn with no boredom.
